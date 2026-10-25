@@ -1,4 +1,4 @@
-## Hi, I'm Kim 👋
+## Hi, I'm Kim 
 
 Self-taught developer. I turn ideas into things that actually run — from
 mobile apps to AI experiments and distributed systems.
